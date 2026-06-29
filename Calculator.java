@@ -7,4 +7,4 @@ System.out.println( (a*b));
 System.out.println( (a/b));
 }
 }
-print("hello");
+System.out.println("hello");
